@@ -1,0 +1,314 @@
+@font-face {
+  font-family: 'Roboto Thin';
+  src: url(../webfonts/Roboto-Thin.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto Regular';
+  src: url(../webfonts/Roboto-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto Bold';
+  src: url(../webfonts/Roboto-Regular.ttf) format('truetype');
+}
+
+.bold{
+  font-family: 'Roboto Bold';
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+}
+
+#main-header {
+  font-family: 'Roboto Thin';
+  color: #1e1e1e;
+  font-weight: bold;
+}
+
+.container {
+  padding: 1em;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 0 auto;
+}
+
+.logo {
+  margin: auto;
+}
+
+.search {
+  width: 208px;
+  display: grid;
+  grid-template-columns: 2em 9em 2em;
+  align-items: center;
+  border-bottom: 1.5px solid #818181;
+}
+
+#main-header a {
+  color: #1e1e1e;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1em;
+}
+
+.input {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 0.9em;
+}
+
+.btn {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 42px;
+  cursor: pointer;
+  font-weight: bold;
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.icon-items {
+  margin: auto;
+}
+
+#main-nav {
+  text-align: center;
+}
+
+header li {
+  display: inline;
+  padding: 0 20px;
+}
+
+#showcase {
+  padding: 1em 0;
+}
+
+.showcase-img {
+  content: '';
+  height: 550px;
+  background: url('../images/showcase.jpg') no-repeat center center fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  transition: all 1000ms;
+  display: block;
+}
+
+.showcase-img:hover {
+  filter: blur(0px);
+  -webkit-filter: blur(0px);
+}
+
+.showcase-img:hover + .showcase-description {
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
+
+.showcase-description {
+  font-size: 2em;
+  position: absolute;
+  z-index: 1;
+  top: 250px;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+  text-align: center;
+  height: auto;
+  font-family: 'Roboto Regular';
+  color: #1e1e1e;
+  transition: filter 1000ms;
+}
+
+#showcase p {
+  font-family: 'Roboto Thin';
+  color: #1e1e1e;
+  font-weight: bold;
+  font-size: 0.5em;
+  text-align: end;
+}
+
+#main-description {
+  margin: 3em 10em 30em 30em;
+  font-family: 'Roboto Thin';
+  color: #1e1e1e;
+  font-weight: bold;
+}
+
+#ad-section-right {
+  margin: 3em 1em 30em 30em;
+}
+
+/*#ad-section-inline{
+  
+}*/
+
+.sub-heading {
+  text-align: center;
+  font-size: 1.8em;
+  padding: 0 0 1.5em 0;
+  font-family: 'Roboto Thin';
+  color: #1e1e1e;
+  font-weight: bold;
+}
+
+#main-description .mechatronics-description {
+  line-height: 1.8em;
+  text-align: justify;
+  font-size: 1em;
+}
+
+#main-description .mechatronics-img {
+  padding-right: 2em;
+}
+
+.inline {
+  display: inline;
+}
+
+#main-footer {
+  padding: 2em 8em 0.2em 8em;
+  font-family: 'Roboto Thin';
+  color: #1e1e1e;
+  font-weight: bold;
+  text-align: end;
+  font-size: 0.7em;
+}
+
+#expectations {
+  padding-top: 10em;
+}
+
+#underline-li {
+  border-bottom: 1px solid #818181;
+}
+
+.highlight {
+  color: orange;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+/*Sub -navs*/
+
+#section-nav {
+  width: 280px;
+  margin: 3em 0 2em 4em;
+  font-family: 'Roboto Regular';
+  position: fixed;
+}
+
+.section-nav-description {
+  padding-bottom: 1em;
+  padding-left: 0.5em;
+  border-bottom: 1px solid #5a5a5a;
+}
+
+.section-nav-description a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #1e1e1e;
+  font-size: 1.2em;
+}
+
+.section-nav-attribute {
+  padding-top: 2em;
+  padding-bottom: 1em;
+  padding-left: 0.5em;
+  border-bottom: 1px solid #5a5a5a;
+}
+
+.section-nav-attribute a {
+  text-decoration: none;
+  color: #5a5a5a;
+  font-size: 1em;
+}
+
+/*main-description*/
+
+.txt h1 {
+  font-size: 2em;
+}
+.txt h2 {
+  font-size: 1.7em;
+}
+.txt h3 {
+  font-size: 1.3em;
+}
+.txt h4 {
+  font-size: 0.9em;
+}
+
+.txt h1,
+h2,
+h3,
+h4 {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.txt p {
+  padding-left: 1em;
+  line-height: 2em;
+  font-size: 1.3em;
+}
+
+.txt li {
+  padding-left: 1em;
+  list-style: inside;
+  line-height: 2.5em;
+  font-size: 1.3em;
+  padding-top: 1em;
+}
+
+.txt img {
+  width: 50%;
+  margin: auto;
+}
+
+.box {
+  margin: 1em;
+  padding: 0 1em 1em 0;
+  font-size: 1.3em;
+  width: 50%;
+  position: relative;
+}
+
+.box img {
+  display: block;
+  width: 500px;
+}
+
+.box-heading {
+  position: absolute;
+  top: 25px;
+  left: 50px;
+  font-family: sans-serif;
+}
+
+.box-content {
+  position: absolute;
+  top: 60px;
+  left: 50px;
+}
+
+.box-content #math {
+  position: relative;
+}

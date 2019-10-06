@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="178.5" height="114.745" viewBox="0 0 178.5 114.745">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="35.781" height="5.625" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="87.781" height="5.625" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="4.781" height="25.625" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect width="4.781" height="84.625" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(-527 17.812)">
+    <line id="Linie_1" data-name="Linie 1" x2="35" transform="translate(540.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Linie_2" data-name="Linie 2" y2="29" transform="translate(575.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Linie_3" data-name="Linie 3" x2="86" transform="translate(575.5 69.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Linie_4" data-name="Linie 4" y1="83" transform="translate(661.5 -13.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Linie_5" data-name="Linie 5" y1="49" x2="86" transform="translate(575.5 20.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Linie_8" data-name="Linie 8" x1="93" y2="54" transform="translate(529.5 42.5)" fill="none" stroke="red" stroke-width="1"/>
+    <line id="Linie_9" data-name="Linie 9" x1="101" transform="translate(604.5 21.5)" fill="none" stroke="red" stroke-width="1"/>
+    <text id="WL" transform="translate(527 80)" fill="red" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">WL</tspan></text>
+    <text id="WL-2" data-name="WL" transform="translate(674 43)" fill="red" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">WL</tspan></text>
+    <g id="Wiederholungsraster_1" data-name="Wiederholungsraster 1" transform="translate(538.11 40.188)" clip-path="url(#clip-path)">
+      <g transform="translate(-538.11 -40.188)">
+        <line id="Linie_10" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-534.11 -40.188)">
+        <line id="Linie_10-2" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-530.11 -40.188)">
+        <line id="Linie_10-3" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-526.11 -40.188)">
+        <line id="Linie_10-4" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-522.11 -40.188)">
+        <line id="Linie_10-5" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-518.11 -40.188)">
+        <line id="Linie_10-6" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-514.11 -40.188)">
+        <line id="Linie_10-7" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-510.11 -40.188)">
+        <line id="Linie_10-8" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-506.11 -40.188)">
+        <line id="Linie_10-9" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Wiederholungsraster_2" data-name="Wiederholungsraster 2" transform="translate(573.11 69.188)" clip-path="url(#clip-path-2)">
+      <g transform="translate(-538.11 -40.188)">
+        <line id="Linie_10-10" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-534.11 -40.188)">
+        <line id="Linie_10-11" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-530.11 -40.188)">
+        <line id="Linie_10-12" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-526.11 -40.188)">
+        <line id="Linie_10-13" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-522.11 -40.188)">
+        <line id="Linie_10-14" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-518.11 -40.188)">
+        <line id="Linie_10-15" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-514.11 -40.188)">
+        <line id="Linie_10-16" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-510.11 -40.188)">
+        <line id="Linie_10-17" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-506.11 -40.188)">
+        <line id="Linie_10-18" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-502.11 -40.188)">
+        <line id="Linie_10-19" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-498.11 -40.188)">
+        <line id="Linie_10-20" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-494.11 -40.188)">
+        <line id="Linie_10-21" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-490.11 -40.188)">
+        <line id="Linie_10-22" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-486.11 -40.188)">
+        <line id="Linie_10-23" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-482.11 -40.188)">
+        <line id="Linie_10-24" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-478.11 -40.188)">
+        <line id="Linie_10-25" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-474.11 -40.188)">
+        <line id="Linie_10-26" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-470.11 -40.188)">
+        <line id="Linie_10-27" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-466.11 -40.188)">
+        <line id="Linie_10-28" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-462.11 -40.188)">
+        <line id="Linie_10-29" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-458.11 -40.188)">
+        <line id="Linie_10-30" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-454.11 -40.188)">
+        <line id="Linie_10-31" data-name="Linie 10" x1="4" y2="5" transform="translate(538.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Wiederholungsraster_3" data-name="Wiederholungsraster 3" transform="translate(571.11 44.188)" clip-path="url(#clip-path-3)">
+      <g transform="translate(-571.11 -44.188)">
+        <line id="Linie_11" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -39.188)">
+        <line id="Linie_11-2" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -34.188)">
+        <line id="Linie_11-3" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -29.188)">
+        <line id="Linie_11-4" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -24.188)">
+        <line id="Linie_11-5" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -19.188)">
+        <line id="Linie_11-6" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Wiederholungsraster_4" data-name="Wiederholungsraster 4" transform="translate(661.11 -17.812)" clip-path="url(#clip-path-4)">
+      <g transform="translate(-571.11 -44.188)">
+        <line id="Linie_11-7" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -39.188)">
+        <line id="Linie_11-8" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -34.188)">
+        <line id="Linie_11-9" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -29.188)">
+        <line id="Linie_11-10" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -24.188)">
+        <line id="Linie_11-11" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -19.188)">
+        <line id="Linie_11-12" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -14.188)">
+        <line id="Linie_11-13" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -9.188)">
+        <line id="Linie_11-14" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 -4.188)">
+        <line id="Linie_11-15" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 0.812)">
+        <line id="Linie_11-16" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 5.812)">
+        <line id="Linie_11-17" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 10.812)">
+        <line id="Linie_11-18" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 15.812)">
+        <line id="Linie_11-19" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 20.812)">
+        <line id="Linie_11-20" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 25.812)">
+        <line id="Linie_11-21" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 30.812)">
+        <line id="Linie_11-22" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-571.11 35.812)">
+        <line id="Linie_11-23" data-name="Linie 11" x1="4" y2="5" transform="translate(571.5 44.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

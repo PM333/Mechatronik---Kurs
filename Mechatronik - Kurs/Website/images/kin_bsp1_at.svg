@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="129" viewBox="0 0 142 129">
+  <g id="Gruppe_5" data-name="Gruppe 5" transform="translate(-182 -272)">
+    <g id="Gruppe_4" data-name="Gruppe 4">
+      <line id="Linie_2" data-name="Linie 2" x2="100.41" transform="translate(210.5 392.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Linie_3" data-name="Linie 3" x1="5" y1="3" transform="translate(305.91 389.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Linie_4" data-name="Linie 4" x1="5" y2="3" transform="translate(305.91 392.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Gruppe_3" data-name="Gruppe 3" transform="translate(0 -0.319)">
+      <line id="Linie_1" data-name="Linie 1" y2="100.606" transform="translate(210.51 292.213)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Gruppe_2" data-name="Gruppe 2" transform="translate(207.5 292.213)">
+        <line id="Linie_5" data-name="Linie 5" x1="3" y2="5" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(3.019)">
+          <line id="Linie_6" data-name="Linie 6" x2="3" y2="5" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <text id="a" transform="translate(207 288)" fill="#707070" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">a</tspan></text>
+    <text id="t" transform="translate(318 397)" fill="#707070" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">t</tspan></text>
+    <text id="_4m_s_" data-name="4m/s²" transform="translate(182 349)" fill="#707070" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4m/s²</tspan></text>
+    <line id="Linie_9" data-name="Linie 9" x2="98" transform="translate(210.5 344.5)" fill="none" stroke="red" stroke-width="1"/>
+  </g>
+</svg>

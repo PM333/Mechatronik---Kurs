@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129" height="194" viewBox="0 0 129 194">
+  <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(-305 -328)">
+    <line id="Linie_6" data-name="Linie 6" x2="61" transform="translate(317.586 369.75) rotate(-30)" fill="none" stroke="#000096" stroke-width="1.5"/>
+    <line id="Linie_7" data-name="Linie 7" x2="53.25" y2="89.868" transform="translate(317.25 369.632)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Linie_8" data-name="Linie 8" y2="120" transform="translate(370.5 339.5)" fill="none" stroke="#009600" stroke-width="1.5"/>
+    <path id="Pfad_6" data-name="Pfad 6" d="M450.609,377.683c7.666,12.638-4.558,16.781-4.558,16.781" transform="translate(-122 -14)" fill="none" stroke="#707070" stroke-width="0.7"/>
+    <line id="Linie_9" data-name="Linie 9" y1="1" transform="translate(324.5 371.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Pfad_7" data-name="Pfad 7" d="M481.893,455.789c3.729-8.287,10.566-4.972,10.566-4.972" transform="translate(-122 -14)" fill="none" stroke="#707070" stroke-width="0.7"/>
+    <text id="α" transform="translate(354 431)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">α</tspan></text>
+    <line id="Linie_10" data-name="Linie 10" y1="5" x2="4" transform="translate(317.5 364.5)" fill="none" stroke="#000096" stroke-width="1.5"/>
+    <line id="Linie_11" data-name="Linie 11" x2="6" transform="translate(317.5 369.5)" fill="none" stroke="#000096" stroke-width="1.5"/>
+    <text id="a" transform="translate(331 350)" fill="#000096" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">a</tspan></text>
+    <line id="Linie_12" data-name="Linie 12" y1="7" x2="4" transform="translate(370.5 451.5)" fill="none" stroke="#009600" stroke-width="1.5"/>
+    <line id="Linie_13" data-name="Linie 13" x1="3" y1="7" transform="translate(367.5 451.5)" fill="none" stroke="#009600" stroke-width="1.5"/>
+    <text id="g" transform="translate(379 450)" fill="#009600" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">g</tspan></text>
+    <text id="a_g_x_sin_α_a_4_905_m_s_" data-name="a = g x sin(α)
+a = 4,905 m/s²" transform="translate(305 490)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">a = g x sin(α)</tspan><tspan x="0" y="27">a = 4,905 m/s²</tspan></text>
+  </g>
+</svg>

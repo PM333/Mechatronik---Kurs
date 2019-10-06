@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="164.423" height="86.5" viewBox="0 0 164.423 86.5">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="65.414" height="8.414" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="50" height="8" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(-631.577 3)">
+    <line id="Linie_1" data-name="Linie 1" x2="65.845" transform="translate(631.577 52.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Linie_2" data-name="Linie 2" x2="65.845" transform="translate(631.577 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Linie_3" data-name="Linie 3" y1="15" x2="15" transform="translate(649.5 37.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Linie_4" data-name="Linie 4" x2="15" y2="15" transform="translate(664.5 37.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="Wiederholungsraster_1" data-name="Wiederholungsraster 1" transform="translate(631.793 58.793)" clip-path="url(#clip-path)">
+      <g transform="translate(-631.793 -58.793)">
+        <line id="Linie_5" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-624.793 -58.793)">
+        <line id="Linie_5-2" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-617.793 -58.793)">
+        <line id="Linie_5-3" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-610.793 -58.793)">
+        <line id="Linie_5-4" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-603.793 -58.793)">
+        <line id="Linie_5-5" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-596.793 -58.793)">
+        <line id="Linie_5-6" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-589.793 -58.793)">
+        <line id="Linie_5-7" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-582.793 -58.793)">
+        <line id="Linie_5-8" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-575.793 -58.793)">
+        <line id="Linie_5-9" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-568.793 -58.793)">
+        <line id="Linie_5-10" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(663 35)" fill="#fff" stroke="#707070" stroke-width="4">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="0.5" fill="none"/>
+    </g>
+    <line id="Linie_6" data-name="Linie 6" y2="82" transform="translate(664.5 1.5)" fill="none" stroke="red" stroke-width="1"/>
+    <text id="WL" transform="translate(672 19)" fill="red" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">WL</tspan></text>
+    <line id="Linie_7" data-name="Linie 7" x2="65.845" transform="translate(726.577 52.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Linie_8" data-name="Linie 8" x2="65.845" transform="translate(726.577 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Linie_9" data-name="Linie 9" y1="15" x2="15" transform="translate(744.5 37.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Linie_10" data-name="Linie 10" x2="15" y2="15" transform="translate(759.5 37.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="Wiederholungsraster_2" data-name="Wiederholungsraster 2" transform="translate(726.793 58.793)" clip-path="url(#clip-path)">
+      <g transform="translate(-631.793 -58.793)">
+        <line id="Linie_5-11" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-624.793 -58.793)">
+        <line id="Linie_5-12" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-617.793 -58.793)">
+        <line id="Linie_5-13" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-610.793 -58.793)">
+        <line id="Linie_5-14" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-603.793 -58.793)">
+        <line id="Linie_5-15" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-596.793 -58.793)">
+        <line id="Linie_5-16" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-589.793 -58.793)">
+        <line id="Linie_5-17" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-582.793 -58.793)">
+        <line id="Linie_5-18" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-575.793 -58.793)">
+        <line id="Linie_5-19" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <g transform="translate(-568.793 -58.793)">
+        <line id="Linie_5-20" data-name="Linie 5" x1="7" y2="7" transform="translate(632.5 59.5)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(758 35)" fill="#fff" stroke="#707070" stroke-width="4">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="0.5" fill="none"/>
+    </g>
+    <text id="WL-2" data-name="WL" transform="translate(767 19)" fill="red" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">WL</tspan></text>
+    <g id="Wiederholungsraster_3" data-name="Wiederholungsraster 3" transform="translate(736 52)" clip-path="url(#clip-path-3)">
+      <g transform="translate(-731 -52)">
+        <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(731 52)" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="4" cy="4" r="4" stroke="none"/>
+          <circle cx="4" cy="4" r="3.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-712 -52)">
+        <g id="Ellipse_3-2" data-name="Ellipse 3" transform="translate(731 52)" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="4" cy="4" r="4" stroke="none"/>
+          <circle cx="4" cy="4" r="3.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-693 -52)">
+        <g id="Ellipse_3-3" data-name="Ellipse 3" transform="translate(731 52)" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="4" cy="4" r="4" stroke="none"/>
+          <circle cx="4" cy="4" r="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <line id="Linie_11" data-name="Linie 11" y2="82" transform="translate(759.5 1.5)" fill="none" stroke="red" stroke-width="1"/>
+  </g>
+</svg>

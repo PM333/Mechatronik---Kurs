@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="325" height="204.374" viewBox="0 0 325 204.374">
+  <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(-75 -373.626)">
+    <line id="Linie_1" data-name="Linie 1" y1="155" x2="269.047" transform="translate(86.453 383.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="Pfad_1" data-name="Pfad 1" transform="translate(119.282 487.126) rotate(-30)" fill="#fff">
+      <path d="M 48.5 27.5 L 0.5 27.5 L 0.5 0.5 L 22.45833015441895 0.5 L 48.5 0.5 L 48.5 27.5 Z" stroke="none"/>
+      <path d="M 1 1 L 1 27 L 48 27 L 48 1 L 22.45833015441895 1 L 1 1 M 0 0 L 22.45833015441895 0 L 49 0 L 49 28 L 0 28 L 0 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Pfad_2" data-name="Pfad 2" transform="translate(193.282 444.126) rotate(-30)" fill="#fff">
+      <path d="M 48.5 27.5 L 0.5 27.5 L 0.5 0.5 L 22.45833015441895 0.5 L 48.5 0.5 L 48.5 27.5 Z" stroke="none"/>
+      <path d="M 1 1 L 1 27 L 48 27 L 48 1 L 22.45833015441895 1 L 1 1 M 0 0 L 22.45833015441895 0 L 49 0 L 49 28 L 0 28 L 0 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Pfad_3" data-name="Pfad 3" transform="translate(273.282 398.126) rotate(-30)" fill="#fff">
+      <path d="M 48.5 27.5 L 0.5 27.5 L 0.5 0.5 L 22.45833015441895 0.5 L 48.5 0.5 L 48.5 27.5 Z" stroke="none"/>
+      <path d="M 1 1 L 1 27 L 48 27 L 48 1 L 22.45833015441895 1 L 1 1 M 0 0 L 22.45833015441895 0 L 49 0 L 49 28 L 0 28 L 0 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <line id="Linie_2" data-name="Linie 2" x2="61" transform="translate(86.5 538.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Pfad_4" data-name="Pfad 4" d="M126.627,515.977c11.766,13.566,0,22.485,0,22.485" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="α_30_" data-name="α = 30°" transform="translate(75 565)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">α = 30°</tspan></text>
+    <text id="s2_-2m" data-name="s2=-2m" transform="translate(161 533)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">s</tspan><tspan y="0" font-size="10">2</tspan><tspan y="0">=-2m</tspan></text>
+    <text id="v2_" data-name="v2=?" transform="translate(161 552)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">v</tspan><tspan y="0" font-size="10">2</tspan><tspan y="0">=?</tspan></text>
+    <text id="t2_" data-name="t2=?" transform="translate(161 573)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">t</tspan><tspan y="0" font-size="10">2</tspan><tspan y="0">=?</tspan></text>
+    <text id="s0_0" data-name="s0=0" transform="translate(250 506)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">s</tspan><tspan y="0" font-size="10">0</tspan><tspan y="0">=0</tspan></text>
+    <text id="v0_" data-name="v0=?" transform="translate(250 525)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">v</tspan><tspan y="0" font-size="10">0</tspan><tspan y="0">=?</tspan></text>
+    <text id="t0_0" data-name="t0=0" transform="translate(250 546)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">t</tspan><tspan y="0" font-size="10">0</tspan><tspan y="0">=0</tspan></text>
+    <text id="Start" transform="translate(250 571)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Start</tspan></text>
+    <line id="Linie_3" data-name="Linie 3" x2="25" transform="translate(231 454.313) rotate(60)" fill="none" stroke="#3100ff" stroke-width="1"/>
+    <path id="Pfad_5" data-name="Pfad 5" d="M0,0H25" transform="translate(243.425 475.389) rotate(-30)" fill="none" stroke="#3100ff" stroke-width="1"/>
+    <line id="Linie_4" data-name="Linie 4" x1="7" y2="1" transform="translate(258.5 462.5)" fill="none" stroke="#5400ff" stroke-width="1"/>
+    <line id="Linie_5" data-name="Linie 5" x1="4" y2="6" transform="translate(261.5 462.5)" fill="none" stroke="#3a00ff" stroke-width="1"/>
+    <text id="_a_v_s" data-name="+a, v, s" transform="translate(269 461)" fill="#5400ff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">+</tspan><tspan x="0" y="13">a, v, s</tspan></text>
+    <text id="s1_" data-name="s1=?" transform="translate(339 424)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">s</tspan><tspan y="0" font-size="10">1</tspan><tspan y="0">=?</tspan></text>
+    <text id="v1_0" data-name="v1=0" transform="translate(339 443)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">v</tspan><tspan y="0" font-size="10">1</tspan><tspan y="0">=0</tspan></text>
+    <text id="t1_0_8s" data-name="t1=0,8s" transform="translate(339 464)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">t</tspan><tspan y="0" font-size="10">1</tspan><tspan y="0">=0,8s</tspan></text>
+  </g>
+</svg>

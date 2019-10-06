@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145" height="156" viewBox="0 0 145 156">
+  <g id="Gruppe_5" data-name="Gruppe 5" transform="translate(-180 -272)">
+    <g id="Gruppe_4" data-name="Gruppe 4" transform="translate(-24.232 -0.724)">
+      <line id="Linie_2" data-name="Linie 2" x2="124.642" transform="translate(210.5 393.224)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Linie_3" data-name="Linie 3" x1="6.207" y1="3.724" transform="translate(328.936 389.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Linie_4" data-name="Linie 4" x1="6.207" y2="3.724" transform="translate(328.936 393.224)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Gruppe_3" data-name="Gruppe 3" transform="translate(-0.5 -0.319)">
+      <line id="Linie_1" data-name="Linie 1" y2="117.321" transform="translate(211.01 292.213)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Gruppe_2" data-name="Gruppe 2" transform="translate(207.5 292.213)">
+        <line id="Linie_5" data-name="Linie 5" x1="3.498" y2="5.831" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(3.521)">
+          <line id="Linie_6" data-name="Linie 6" x2="3.498" y2="5.831" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <text id="y" transform="translate(207 288)" fill="#707070" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">y</tspan></text>
+    <text id="x" transform="translate(318 397)" fill="#707070" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">x</tspan></text>
+    <line id="Linie_7" data-name="Linie 7" y1="76" x2="115" transform="translate(193.5 327.5)" fill="none" stroke="red" stroke-width="1"/>
+    <line id="Linie_11" data-name="Linie 11" y1="23.067" x2="34.931" transform="translate(191.672 379.459) rotate(-56)" fill="none" stroke="lime" stroke-width="2"/>
+    <line id="Linie_12" data-name="Linie 12" x1="12" y2="2" transform="translate(203.935 361.277) rotate(-56)" fill="none" stroke="lime" stroke-width="2"/>
+    <line id="Linie_13" data-name="Linie 13" x1="5" y2="10" transform="translate(208.679 356.033) rotate(-56)" fill="none" stroke="lime" stroke-width="2"/>
+    <line id="Linie_14" data-name="Linie 14" y1="35.129" x2="52.814" transform="translate(229.715 363.1) rotate(34)" fill="none" stroke="lime" stroke-width="2"/>
+    <line id="Linie_15" data-name="Linie 15" x1="12" y2="2" transform="translate(262.723 385.364) rotate(34)" fill="none" stroke="lime" stroke-width="2"/>
+    <line id="Linie_16" data-name="Linie 16" x1="5" y2="10" transform="translate(267.967 390.108) rotate(34)" fill="none" stroke="lime" stroke-width="2"/>
+    <line id="Linie_17" data-name="Linie 17" x2="62" transform="translate(210.5 350.5)" fill="none" stroke="lime" stroke-width="1" stroke-dasharray="2"/>
+    <line id="Linie_18" data-name="Linie 18" y1="42" transform="translate(272.5 350.5)" fill="none" stroke="lime" stroke-width="1" stroke-dasharray="2"/>
+    <text id="WL" transform="translate(180 423)" fill="red" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">WL</tspan></text>
+    <text id="FAY" transform="translate(183 346)" fill="lime" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">F</tspan><tspan y="0" font-size="10">AY</tspan></text>
+    <text id="FAX" transform="translate(276 413)" fill="lime" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">F</tspan><tspan y="0" font-size="10">AX</tspan></text>
+    <text id="FA" transform="translate(287 365)" fill="#be18b3" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">F</tspan><tspan y="0" font-size="10">A</tspan></text>
+    <line id="Linie_8" data-name="Linie 8" y1="42" x2="63" transform="translate(210.5 350.5)" fill="none" stroke="#be18b3" stroke-width="3"/>
+    <line id="Linie_9" data-name="Linie 9" x1="12" y2="2" transform="translate(260.5 350.5)" fill="none" stroke="#be18b3" stroke-width="3"/>
+    <line id="Linie_10" data-name="Linie 10" x1="5" y2="10" transform="translate(267.5 351.5)" fill="none" stroke="#be18b3" stroke-width="3"/>
+  </g>
+</svg>

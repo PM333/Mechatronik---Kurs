@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Online Nachschlagewerk für Ingenieure ⇀ Jetzt online lernen" />
+    <meta name="keywords"
+        content="Ingenieur, Technik, Übungen, Online Kurse, Elektrotechnik, Elektronik, Mechanik, Maschinenbau, Mechatronik, Automatisierung" />
+    <meta name="author" content="Peter Mooseder" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous" />
+    <link rel="stylesheet" href="../css/flexboxgrid.css" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
+    <title>Mechatronik - Kurs</title>
+</head>
+
+<body>
+    <header id="main-header">
+        <div class="container">
+            <div class="search-wrapper">
+                <div class="search">
+                    <div class="icon-items">
+                        <div class="fa fa-search"></div>
+                    </div>
+                    <div class="search-box">
+                        <input class="input" type="text" name="searchbar" placeholder="Suche" />
+                    </div>
+                    <div class="icon-items">
+                        <div class="btn">
+                            <i class="btn-close">+</i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="logo">
+                <h1><a href="../index.html">Mechatronik</a></h1>
+            </div>
+            <div class="placeholder"></div>
+        </div>
+        <nav id="main-nav">
+            <ul>
+                <li id="underline-li"><a href="mechanik.html">Mechanik</a></li>
+                <li><a href="../elektrotechnik.html">Elektrotechnik</a></li>
+                <li><a href="../elektronik.html">Elektronik</a></li>
+                <li>
+                    <a href="../automatisierungstechnik.html">Automatisierungstechnik</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <!--id="sub-nav" für navbar bei mechanik, elektrotechnik...-->
+    <section id="section-nav">
+        <div class="section-nav-description">
+            <a href="mechanik.html">Mechanik</a>
+        </div>
+        <div class="section-nav-attribute">
+            <a href="statik.html">Statik</a>
+        </div>
+        <div class="section-nav-attribute">
+            <a href="festigkeitslehre.html" class="bold">Festigkeitslehre</a>
+        </div>
+        <div class="section-nav-attribute">
+            <a href="kinematik_kinetik.html">Dynamik</a>
+        </div>
+        <div class="section-nav-attribute">
+            <a href="hydromechanik.html">Hydromechanik</a>
+        </div>
+        <div class="section-nav-attribute">
+            <a href="#">Thermodynamik und Wärmelehre</a>
+        </div>
+        <div class="section-nav-attribute">
+            <a href="#">Maschinenelemente, Pneumatik und Hydraulik</a>
+        </div>
+        <div class="section-nav-attribute">
+            <a href="#">Mechanische Schwingungen</a>
+        </div>
+    </section>
+
+    <section id="main-description">
+        <p class="sub-heading">Festigkeitslehre</p>
+        <div class="txt">
+            <h1>1. Schnittgrößen</h1>
+            <p>Um auftretende Spannungen, Kräfte und Momente in einem Körper zu bestimmen, wendet man die Vorgehensweise
+                der Schnittgrößen an. Damit lassen sich dann z.B. erforderliche Querschnittsabmaße eines Balkens
+                bestimmen.</p>
+            <h2>Vorgehensweise (rechnerisch)</h2>
+            <ol type="1">
+                <li>1. Bauteil aufzeichnen</li>
+                <li>2. Koordinatensystem bestimmen</li>
+                <li>3. Auflagerkräfte berechnen (freimachen)</li>
+                <li>4. Querschnittsbereiche festlegen (ein Bereich geht nur von einer Kraft zur nächsten)</li>
+                <li>5. Bauteil im ersten Bereich schneiden (freimachen)</li>
+                <li>6. Schnittgrößen einzeichnen (
+                    <math display='inline'>
+                        <msub>
+                            <mi>F</mi>
+                            <mi>Q</mi>
+                        </msub>
+
+                    </math>
+                    ,
+                    <math display='inline'>
+                        <msub>
+                            <mi>F</mi>
+                            <mi>N</mi>
+                        </msub>
+
+                    </math>
+                    und
+                    <math display='inline'>
+                        <msub>
+                            <mi>M</mi>
+                            <mi>S</mi>
+                        </msub>
+
+                    </math>
+                    )
+
+                </li>
+                <li>7. Schnittgrößen berechnen</li>
+                <li>8. Schritte 5 - 7 für alle Bereiche wiederholen</li>
+                <li>9. Spannungen mit den Schnittgrößen berechnen</li>
+
+                <h1>2. Spannungen</h1>
+                <p>Äußere Kräfte rufen in einem Körper Spannungen hervor <i class="fas fa-arrow-right"></i> Verformungen
+                    können auftreten.<br>
+                    <h2>Definition</h2>
+                    <p>Die Spannung ist die Höhe der Beanspruchung, die eine Kraft auf eine Fläche ausübt.</p>
+
+                    <h2>2.1 Arten von Spannungen</h2>
+
+                    <h2>2.2 Zug - bzw. Druckspannung</h2>
+                    <p>Wird ein Körper auf Zug bzw. Druck belastet, ensteht eine Zug - bzw. Druckspannung.</p>
+
+                    <h3>2.2.1 Elastische Formänderung</h3>
+                    <p>Wird ein Körper auf Zug bzw. Druck belastet, entsteht eine Formänderung. <br>Es gibt 2
+                        verschiedene Formänderungsarten: elasitsch und plastisch. <br><br>
+                        Elastisch: Der Körper geht nach der Belastung wieder vollständing in seine Ausgangsform zurück.
+                        <br><br>
+                        Plastisch: Wird der Körper zu stark belastet, geht er nicht mehr in seinen Ausgangszustand
+                        zurück. Er bleibt somit verformt. Im Maschinenbau ist eine plastsiche Verformung eigentlich
+                        immer unerwünscht.<br><br>
+
+                        Das Hook'sche Gesetz betrachtet nur den elastischen Fall.</p>
+
+                    <h3>2.2.2 Flächenpressung</h3>
+                    <p>Die Flächenpressung ist eine Druckspannung zwischen zwei Körpern.</p>
+                    <h4>2.2.2.1 Lochleibung</h4>
+                    <p>Lochleibung ist die Flächenpressung bei Schrauben, Bolzen oder Nieten.</p>
+
+
+                    <h2>2.3 Biegespannung</h2>
+                    <h3>2.3.1 Flächenmomente</h3>
+                    <h4>Flächenmoment 0. Grades</h4>
+                    <h4>Flächenmoment 1. Grades</h4>
+                    <h4>Flächenmoment 2. Grades</h4>
+                    <h3>2.3.2 Satz von Steiner</h3>
+
+
+
+                    <h2>2.4 Abscherspannung</h2>
+                    <p>Die Abscherspannung tritt immer mit der Biegespannung auf. Man kann jedoch je nach
+                        Einspannart/Kraftangriffspunkt eine der beiden Spannungen vernachlässigen. Wichtig ist hierbei
+                        der Abstand der Kraft zur Einspannung. <br>Ist der Abstand "klein", tritt Abscherung auf. Ist
+                        der
+                        Abstand "groß", tritt Biegung auf.</p>
+
+                    <h2>2.5 Torsionsspannung (Verdrehung)</h2>
+                    <h3>2.5.1 Torsion geschlossener dünnwandiger Hohlquerschnitte – Bredt'sche Formel</h3>
+                    <p>Werden dünnwandige Querschnitte (z.B. Aluprofile) betrachtet, kann die Bredt'sche Formel
+                        angewendet werden, um die Auswirkung einer Torsion zu berechnen.</p>
+
+                    <h2>2.6 Zusammengesetzte Beanspruchung</h2>
+                    <p>Spannungen treten meist nie einzeln auf. Meistens können jedoch verschiedene Spannungsarten
+                        vernachlässigt werden. Manchmal ist dies jedoch nicht zulässig und die einzelnen Spannungstypen
+                        müssen somit zusammengerechnet werden.</p>
+
+                    <h3>2.6.1 Überlagerung gleichartiger Spannungen</h3>
+                    <h4>2.6.1.1 Überlagerung von Normalspannungen</h4>
+                    <p>Normalspannungen (Zug, Druck und Biegung) können einfach addiert werden, da sie auf der gleichen
+                        Achse liegen.</p>
+
+                    <h4>2.6.1.2 Überlagerung von Schubspannungen</h4>
+                    <p>Schubspannungen (Torsion, Abscherung) müssen vektoriell (Satz des Pythagoras) addiert werden, da
+                        sie eine Dreiecksfläche aufspannen.</p>
+
+                    <h3>2.6.2 Überlagerung ungleichartiger Spannungen – Spannungshypothesen</h3>
+                    <p>Wird ein Bauteil gleichzeitig durch Normal - und durch Schubspannungen belastet, können diese
+                        nicht addiert werden. Man ersetzt stattdessen die gesamte Spannungswirkung durch eine
+                        Vergleichsspannung.
+                    </p>
+                    <h4>2.6.2.1 Hypothese der größten Normalspannung</h4>
+                    <p>Wird für spröde Werkstoffe genommen (Glas, Keramik, Schweißkonstruktionen).</p>
+                    <h4>2.6.2.2 Hypothese der größten Schubspannung</h4>
+                    <p>Wird für zähe Werkstoffe mit ausgeprägter Streckgrenze genommen (Kesselbau).</p>
+                    <h4>2.6.2.3 Hypothese der größten Gestaltänderungsarbeit (von Mises)</h4>
+                    <p>Diese Hypothese nimmt an, dass die Gestaltänderungsenergie maßgebend für die Verformung des
+                        Werkstoffs ist.</p>
+
+                    <p>&#945; stellt einen Ausgleichsfaktor dar. Es berücksichtigt das Verhältnis der <a href="#"
+                            class="link">Lastfälle</a> der Normal - und der Schubspannungen. <br></p>
+
+
+
+                    <h2>2.7 Knickung</h2>
+                    <p>Unter Knickung versteht man das seitliche Ausweichen von Bauteilen (meist Stäben) unter
+                        Druckbeanspruchung. Das Bauteil versagt dabei.</p>
+                    <h3>2.7.1 Einspannfälle</h3>
+                    <p>Je nachdem, wie das Bauteil eingespannt ist und belastet wird, biegt sich das Bauteil anders. Es
+                        werden dementsprechend auch unterschiedliche Grenzwerte für die Belastung festgestellt.</p>
+                    <h3>2.7.2 Elastische Knickung – Euler</h3>
+                    <h3>2.7.2 Plastische Knickung – Tetmajer</h3>
+                    <p>Ist der Schlankheitsgrad
+                        <math display='inline'>
+                            <mi>&#x03BB;</mi>
+                        </math>
+                        eines Stabes kleiner als der Grenzschlankheitsgrad
+                        <math display='inline'>
+                            <mrow>
+                                <msub>
+                                    <mi>&#x03BB;</mi>
+                                    <mn>0</mn>
+                                </msub>
+
+                            </mrow>
+                        </math>
+                        gilt die Euler - Gleichung nicht mehr. Ein Teil des Stabes erfährt <a href="#"
+                            class="link">plastische Verformung</a>.
+                    </p>
+
+                    <h2>2.8 Biegelinie</h2>
+                    <p>Die Biegelinie beschreibt die Biegeachse bzw. Nulllinie eines verbogenen Stabes/Trägers. Der
+                        ursprünglich gerade Träger verformt sich entlang dieser Linie.</p>
+                    <h3>2.8.1 Krümmung <math display='inline'>
+                            <mi>&#x03C7;</mi>
+                        </math>
+                    </h3>
+                    <p><math display='inline'>
+                            <mi>&#x03C1;</mi>
+                        </math>
+                        ist der Krümmungsradius.
+                    </p>
+
+        </div>
+    </section>
+
+    <footer id="main-footer">
+        <p>Peter Mooseder &copy; 2019</p>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

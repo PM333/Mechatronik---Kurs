@@ -1,0 +1,30 @@
+SEO:
+
+Jeden wichtigen Unterpunkt (2.4.2 ...) auf eigene Seite -> diese Seite hat dann mehr Relevanz
+
+
+Kompakte Formelzusammenfassung:
+
+mit JS nach class="box-heading" und "box-content" suchen und auflisten
++ Nach Parents suchen und gliedern (Statik: alle Formeln der Statik; 3-Phase AC: ...)
+
+
+Unterkapitel (Festigkeitslehre, Statik) als Übersicht über das Thema + Bilder zu den einzelnen Unterthemen (Schnittgrößen, Spannungen, Reibung...)
+
+
+
+Name: Abkürzung von Ingenieur, Engineer und Kombinationen daraus (z.B. theclassicengineer)
+	In
+
+Titelbild (nur vielleicht/dezent, weil user will sofort auf Webpage ohne schnikschak):
+	Bilder von Wikipedia - Artikel zu Ingenieur (vintage) (lizenz?)
+	Animation: Wolkenkratzer aus Perspektive von unten nach oben -> Linien laufen an den Konturen der Wolkenkratzer hoch
+	Ingenieur - Bild von Pexels/Unsplash -> lizenzfrei
+				Adobe Stock
+
+Unter Mechatronik Bild: "Zu den Kursen/Lernmaterial/..." Button
+
+Vll.: Was sie hier erwartet
+
+
+

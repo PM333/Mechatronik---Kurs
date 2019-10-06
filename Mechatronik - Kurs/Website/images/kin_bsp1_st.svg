@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="138" viewBox="0 0 151 138">
+  <g id="Gruppe_5" data-name="Gruppe 5" transform="translate(-173 -272)">
+    <g id="Gruppe_4" data-name="Gruppe 4">
+      <line id="Linie_2" data-name="Linie 2" x2="100.41" transform="translate(210.5 392.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Linie_3" data-name="Linie 3" x1="5" y1="3" transform="translate(305.91 389.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Linie_4" data-name="Linie 4" x1="5" y2="3" transform="translate(305.91 392.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Gruppe_3" data-name="Gruppe 3" transform="translate(0 -0.319)">
+      <line id="Linie_1" data-name="Linie 1" y2="100.606" transform="translate(210.51 292.213)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Gruppe_2" data-name="Gruppe 2" transform="translate(207.5 292.213)">
+        <line id="Linie_5" data-name="Linie 5" x1="3" y2="5" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(3.019)">
+          <line id="Linie_6" data-name="Linie 6" x2="3" y2="5" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <text id="s" transform="translate(207 288)" fill="#707070" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">s</tspan></text>
+    <text id="t" transform="translate(318 397)" fill="#707070" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">t</tspan></text>
+    <path id="Pfad_1" data-name="Pfad 1" d="M210.51,399.16C297.609,380.6,310.9,298.66,310.9,298.66" transform="translate(0 -6.66)" fill="none" stroke="red" stroke-width="1"/>
+    <line id="Linie_7" data-name="Linie 7" x2="93" transform="translate(210.5 318.5)" fill="none" stroke="red" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Linie_8" data-name="Linie 8" y2="75" transform="translate(303 318)" fill="none" stroke="red" stroke-width="1" stroke-dasharray="3"/>
+    <text id="_283_3m" data-name="283,3m" transform="translate(173 323)" fill="#707070" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">283,3m</tspan></text>
+    <text id="_10s" data-name="10s" transform="translate(291 407)" fill="#707070" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10s</tspan></text>
+  </g>
+</svg>

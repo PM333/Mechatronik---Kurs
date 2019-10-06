@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Online Nachschlagewerk für Ingenieure ⇀ Jetzt online lernen" />
+  <meta name="keywords"
+    content="Ingenieur, Technik, Übungen, Online Kurse, Elektrotechnik, Elektronik, Mechanik, Maschinenbau, Mechatronik, Automatisierung" />
+  <meta name="author" content="Peter Mooseder" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+    integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous" />
+  <link rel="stylesheet" href="../css/flexboxgrid.css" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
+  <title>Mechatronik - Kurs</title>
+</head>
+
+<body>
+  <header id="main-header">
+    <div class="container">
+      <div class="search-wrapper">
+        <div class="search">
+          <div class="icon-items">
+            <div class="fa fa-search"></div>
+          </div>
+          <div class="search-box">
+            <input class="input" type="text" name="searchbar" placeholder="Suche" />
+          </div>
+          <div class="icon-items">
+            <div class="btn">
+              <i class="btn-close">+</i>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="logo">
+        <h1><a href="../index.html">Mechatronik</a></h1>
+      </div>
+      <div class="placeholder"></div>
+    </div>
+    <nav id="main-nav">
+      <ul>
+        <li id="underline-li"><a href="mechanik.html">Mechanik</a></li>
+        <li><a href="../elektrotechnik.html">Elektrotechnik</a></li>
+        <li><a href="../elektronik.html">Elektronik</a></li>
+        <li>
+          <a href="../automatisierungstechnik.html">Automatisierungstechnik</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <!--id="sub-nav" für navbar bei mechanik, elektrotechnik...-->
+  <section id="section-nav">
+    <div class="section-nav-description">
+      <a href="mechanik.html">Mechanik</a>
+    </div>
+    <div class="section-nav-attribute">
+      <a href="statik.html" class="bold">Statik</a>
+    </div>
+    <div class="section-nav-attribute">
+      <a href="festigkeitslehre.html">Festigkeitslehre</a>
+    </div>
+    <div class="section-nav-attribute">
+      <a href="kinematik_kinetik.html">Dynamik</a>
+    </div>
+    <div class="section-nav-attribute">
+      <a href="hydromechanik.html">Hydromechanik</a>
+    </div>
+    <div class="section-nav-attribute">
+      <a href="#">Thermodynamik und Wärmelehre</a>
+    </div>
+    <div class="section-nav-attribute">
+      <a href="#">Maschinenelemente, Pneumatik und Hydraulik</a>
+    </div>
+    <div class="section-nav-attribute">
+      <a href="#">Mechanische Schwingungen</a>
+    </div>
+  </section>
+
+  <section id="main-description">
+    <p class="sub-heading">Statik</p>
+    <div class="txt">
+      <h1>1. Gleichgewichtsbedingungen</h1>
+      <p>Durch das 2. Newton'sche Gesetz können die Gleichgewichtsbedingungen abgeleitet werden. </p>
+      <div class="box">
+        <img src="../images/box.svg" alt="" />
+        <div class="box-heading">
+          2. Newton'sche Gesetz
+        </div>
+        <div class="box-content">
+          <math display='block'>
+            <mrow>
+              <mi>m</mi>
+              <mo>&#x00D7;</mo>
+              <mi>a</mi>
+              <mo>=</mo>
+              <mstyle displaystyle='true'>
+                <mo>&#x2211;</mo>
+                <mi>F</mi>
+              </mstyle>
+            </mrow>
+          </math>
+        </div>
+      </div>
+
+      <p>Da in der Statik die Körper sich im Ruhezustand befinden (sich nicht bewegen), ist die Beschleunigung 0. <br>
+        Folgernd:
+      </p>
+      <math display='block'>
+        <mrow>
+          <mn>0</mn>
+          <mo>=</mo>
+          <mstyle displaystyle='true'>
+            <mo>&#x2211;</mo>
+            <mi>F</mi>
+          </mstyle>
+        </mrow>
+      </math>
+      <p>Daraus resultieren die Gleichgewichtsbedingungen, die in die einzelnen Koordinaten aufgeteilt werden können.
+      </p>
+      <div class="box">
+        <img src="../images/box.svg" alt="" />
+        <div class="box-heading">
+          Gleichgwewichtsbedingungen im Raum
+        </div>
+        <div class="box-content">
+          <math display='block'>
+            <mtable columnalign='left'>
+              <mtr>
+                <mtd>
+                  <mstyle displaystyle='true'>
+                    <mo>&#x2211;</mo>
+                    <mrow>
+                      <msub>
+                        <mi>F</mi>
+                        <mi>x</mi>
+                      </msub>
+                    </mrow>
+                  </mstyle>
+                  <mo>=</mo>
+                  <mn>0</mn>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mstyle displaystyle='true'>
+                    <mo>&#x2211;</mo>
+                    <mrow>
+                      <msub>
+                        <mi>F</mi>
+                        <mi>y</mi>
+                      </msub>
+                    </mrow>
+                  </mstyle>
+                  <mo>=</mo>
+                  <mn>0</mn>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mstyle displaystyle='true'>
+                    <mo>&#x2211;</mo>
+                    <mrow>
+                      <msub>
+                        <mi>F</mi>
+                        <mi>z</mi>
+                      </msub>
+                    </mrow>
+                  </mstyle>
+                  <mo>=</mo>
+                  <mn>0</mn>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mstyle displaystyle='true'>
+                    <mo>&#x2211;</mo>
+                    <mrow>
+                      <msub>
+                        <mi>M</mi>
+                        <mi>x</mi>
+                      </msub>
+                    </mrow>
+                  </mstyle>
+                  <mo>=</mo>
+                  <mn>0</mn>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mstyle displaystyle='true'>
+                    <mo>&#x2211;</mo>
+                    <mrow>
+                      <msub>
+                        <mi>M</mi>
+                        <mi>y</mi>
+                      </msub>
+                    </mrow>
+                  </mstyle>
+                  <mo>=</mo>
+                  <mn>0</mn>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mstyle displaystyle='true'>
+                    <mo>&#x2211;</mo>
+                    <mrow>
+                      <msub>
+                        <mi>M</mi>
+                        <mi>z</mi>
+                      </msub>
+                    </mrow>
+                  </mstyle>
+                  <mo>=</mo>
+                  <mn>0</mn>
+                </mtd>
+              </mtr>
+            </mtable>
+          </math>
+        </div>
+      </div>
+      <br>
+      <div class="box">
+        <img src="../images/box.svg" alt="" />
+        <div class="box-heading">
+          Gleichgwewichtsbedingungen in der Ebene
+        </div>
+        <div class="box-content">
+          <math display='block'>
+            <mtable columnalign='left'>
+              <mtr>
+                <mtd>
+                  <mstyle displaystyle='true'>
+                    <mo>&#x2211;</mo>
+                    <mrow>
+                      <msub>
+                        <mi>F</mi>
+                        <mi>x</mi>
+                      </msub>
+                      <mo>=</mo>
+                      <mn>0</mn>
+                    </mrow>
+                  </mstyle>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mstyle displaystyle='true'>
+                    <mo>&#x2211;</mo>
+                    <mrow>
+                      <msub>
+                        <mi>F</mi>
+                        <mi>y</mi>
+                      </msub>
+                      <mo>=</mo>
+                      <mn>0</mn>
+                    </mrow>
+                  </mstyle>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mstyle displaystyle='true'>
+                    <mo>&#x2211;</mo>
+                    <mrow>
+                      <msub>
+                        <mi>M</mi>
+                        <mi>z</mi>
+                      </msub>
+                      <mo>=</mo>
+                      <mn>0</mn>
+                    </mrow>
+                  </mstyle>
+                </mtd>
+              </mtr>
+            </mtable>
+
+          </math>
+
+        </div>
+      </div>
+      <br>
+      <h1>2. Zeichnerische Verfahren</h1>
+      <h2>2.1 Seileck-Verfahren/Schlusslinienverfahren</h2>
+      <ul>
+        <li>a) Lageplan zeichnen (maßstäblich!)</li>
+        <li>b) Kräfteplan zeichnen (unbekannte Kraft entspricht der Resultierenden!)</li>
+        <li>c) Beliebigen Pol wählen; Polstrahlen in Kräfteplan zeichnen</li>
+        <li>d)</li>
+      </ul>
+      <h2>2.2 3-Kräfte-Verfahren</h2>
+      <h2>2.3 4-Kräfte-Verfahren</h2>
+      <h1>3. Rechnerisches Verfahren</h1>
+
+      <h1>4. Schwerpunktslehre</h1>
+      <h2>4.1 Körperschwerpunkt</h2>
+      <p>Man kann sich die gesamten Massekräfte eines Körpers in einem Punkt vereinigt denken (=Schwerpunkt).</p>
+      <h2>4.2 Flächenschwerpunkt</h2>
+      <p>Genauso wie bei einem unregelmäßigen Körper kann man sich auch bei einem Körper, der gleichmäßig mit Masse
+        bedeckt ist (z.B. Blech) sich den Schwerpunkt ausrechnen.</p>
+      <h2>4.3 Lininenschwerpunkt</h2>
+      <p>Der Lininenschwerpunkt betrachtet nicht das Volumen oder die Fläche eines Körpers, sondern nur seine Linien.
+        <br>
+        Der Lininenschwerpunkt eines Kreissektors betrachtet somit nicht seine Fläche sondern nur den Kreisbogen.</p>
+
+      <h1>5. Guldin'sche Regel</h1>
+      <p>Mittels dieser Regel können die Überfläche bzw. das Volumen eines Drehkörpers berechnent werden.</p>
+      <h2>5.1 Oberflächenberechnung</h2>
+      <h2>5.2 Volumsberechnung</h2>
+
+
+      <h1>6. Standsicherheit – Gleichgewichtslagen</h1>
+      <h2>6.1 Stabile Lage</h2>
+      <p>Entsteht, wenn sich der Schwerpunkt des Körpers "unterhalb" (näher der Erde) des Drehpunktes befindet. <br>
+        Bei einer Lageänderung würde sich somit sein Schwerpunkt heben. Diese Änderung wird durch ein Rückstellmoment
+        ausgeglichen und lässt den Körper in seine Ausgangslage zurückfallen.</p>
+
+      <h2>6.2 Indifferente Lage</h2>
+      <p>Entsteht, wenn der Schwerpunkt eines Körpers und sein Drehpunkt sich in einem Punkt befinden.</p>
+
+      <h2>6.3 Labile Lage</h2>
+      <p>Ensteht, wenn der Schwerpunkt eines Körpers lotrecht über dem Drehpunkt ist. <br>
+        Eine kleinste Lageänderung bewirkt das Umfallen.</p>
+
+      <h2>6.4 Standsicherheit</h2>
+      <p>Dieser Wert &#957; (griechisch: Ny) gibt die Sicherheit gegen Kippen eines Körpers um einen Drehpunkt an.</p>
+      <div class="box">
+        <img src="../images/box.svg" alt="" />
+        <div class="box-heading">
+          Standsicherheit
+        </div>
+        <div class="box-content">
+          <math display='block'>
+            <mrow>
+              <mi>&#x03BD;</mi>
+              <mo>=</mo>
+              <mfrac>
+                <mrow>
+                  <msub>
+                    <mi>M</mi>
+                    <mi>S</mi>
+                  </msub>
+
+                </mrow>
+                <mrow>
+                  <msub>
+                    <mi>M</mi>
+                    <mi>K</mi>
+                  </msub>
+
+                </mrow>
+              </mfrac>
+
+            </mrow>
+          </math>
+
+          <math display='inline'>
+            <mrow>
+              <mi>&#x03BD;</mi>
+              <mo>&#x003E;</mo>
+              <mn>1</mn>
+            </mrow>
+          </math>
+          <span>... standsicher</span>
+          <br><br>
+          <math display='inline'>
+            <mrow>
+              <msub>
+                <mi>M</mi>
+                <mi>S</mi>
+              </msub>
+
+            </mrow>
+          </math>
+          <span>... Standmoment</span>
+          <br>
+          <math display='inline'>
+            <mrow>
+              <msub>
+                <mi>M</mi>
+                <mi>K</mi>
+              </msub>
+
+            </mrow>
+          </math>
+          <span>... Kippmoment</span>
+        </div>
+      </div>
+
+      <p>Das Standmoment ist jenes Moment, welches das stabile Stehen des Körpers begünstigt. <br>
+        Das Kippmoment hingegen begünstigt das Kippen.</p>
+
+      <h1>7. Reibung</h1>
+      <p>Bei Verschieben eines Körpers auf einer Öberfläche, spürt man einen Widerstand. Dieser Widerstand ist die
+        Reibungskraft und wirkt immer der Bewegung entgegen. <br>
+        Die Reibung kommt dadurch zustande, dass die Oberflächen der Körper nicht perfekt glatt sind (nicht einmal bei
+        Glas). <br>
+        Diese Erhebungen und Vertiefungen an den Oberflächen stellen einen Widerstand gegen das Verschieben dar.</p>
+
+      <p>Bewegt sich der Körper auf der Oberfläche nicht, spricht man von Haftreibung. Die Unebenheiten der Oberflächen
+        verkanten sich hier am stärksten. <br>
+        Bei Bewegen des Körpers tritt die Gleitreibung auf. Diese ist stets kleiner als die Haftreibung, da hier die
+        Unebeheiten nicht mehr vollständig ineinander greifen.</p>
+      <h2>Sonderfall: Rollreibung</h2>
+      <p>Rollreibung ensteht, wenn ein Körper über die Öberfläche gerollt wird. Sie ist kleiner als die Haft - bzw.
+        Gleitreibung.</p>
+      <h2>7.1 Bewegungsablauf</h2>
+      <ul>
+        <li>Fig.1 ,2 Haftreibung: Die einwirkende Kraft ist gleich groß wie die Reibungskraft <i
+            class="fas fa-arrow-right"></i> Der Körper bewegt sich nicht.</li>
+        <li>Fig.3 Haftreibung: Ab hier ist äußere Kraft gleich groß der maximalen Haftreibung. <i
+            class="fas fa-arrow-right"></i> Der Körper beginnt sich zu bewegen.</li>
+        <li>Fig.4 Gleitreibung: Die aufzubringende äußere Kraft wird kleiner, da die Gleitreibung kleiner als die
+          maximale Haftreibung ist. <i class="fas fa-arrow-right"></i> Der Körper bewegt sich mit konstanter
+          Geschwindigkeit. </li>
+      </ul>
+
+      <h2>7.2 Reibkegel</h2>
+      <p>Aufgrund des Kräftedreiecks von vorhin, kann mit bekanntem Reibungskoeffizienten
+        <math display='inline'>
+          <msub>
+            <mi>&#x03BC;</mi>
+            <mi>H</mi>
+          </msub>
+
+        </math>
+        bzw.
+        <math display='inline'>
+          <msub>
+            <mi>&#x03BC;</mi>
+            <mn>0</mn>
+          </msub>
+
+        </math>
+        der Reibungswinkel
+        <math display='inline'>
+          <msub>
+            <mi>&#x03B4;</mi>
+            <mi>H</mi>
+          </msub>
+
+        </math>
+        bzw.
+        <math display='inline'>
+          <msub>
+            <mi>&#x03B4;</mi>
+            <mn>0</mn>
+          </msub>
+
+        </math>
+        ausgerechnet werden. <br>
+        Ab diesem Winkel würde ein Körper, auf einer mit diesem Winkel geneigten Ebene, nach unten rutschen.
+      </p>
+
+      <h2>7.3 Seilreibung</h2>
+      <p>Seilreibung entsteht, wenn ein Seil um eine Scheibe geführt ist und angezogen wird.</p>
+
+
+      <p>Es kann also berechnet werden, wie viele Umwicklungen man braucht, damit sich das Seil nicht löst.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </section>
+
+  <footer id="main-footer">
+    <p>Peter Mooseder &copy; 2019</p>
+  </footer>
+  <script src="js/main.js"></script>
+</body>
+
+</html>
